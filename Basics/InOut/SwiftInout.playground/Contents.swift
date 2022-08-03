@@ -23,5 +23,5 @@ func updateUserIO(_ user:inout User) {
     user.userId = "200"
 }
 
-updateUser(user: user)
+updateUser(user: &user)
 print(user.userId)
