@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "464516efb423a03797eabe8343b1788738066cd5e5a04d039eb286000465a563"
+    }
+  ],
+  "containerPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/NetworkLayerTest.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Index/Build/Products",
+      "derivedDataPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

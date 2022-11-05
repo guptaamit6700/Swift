@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "5cdcc5b69c060c83157f3383a8c3bc617e7f44aa38853ac98ec2fef9db9d6d50"
+    }
+  ],
+  "containerPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/NetworkLayerTest.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Build/Products",
+      "derivedDataPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "9D179A7A-80EB-4412-80C5-94F8CC78B7D4",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

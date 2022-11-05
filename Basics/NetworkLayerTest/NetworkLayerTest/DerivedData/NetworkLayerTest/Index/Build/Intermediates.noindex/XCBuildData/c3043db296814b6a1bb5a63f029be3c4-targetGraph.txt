@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+NetworkLayerTest in NetworkLayerTest, no dependencies
+NetworkLayerTest in NetworkLayerTest, no dependencies

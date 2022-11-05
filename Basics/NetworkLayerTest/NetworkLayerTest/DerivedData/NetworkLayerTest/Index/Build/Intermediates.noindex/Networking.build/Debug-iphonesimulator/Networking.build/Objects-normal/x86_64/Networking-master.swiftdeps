@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "a544c9fcce16612a2cea3fedcddafdc4cf0662ccfafca1757f30691ddbe00094"
+build_start_time: [1666966176, 588979959]
+build_end_time: [1666966176, 969712018]
+inputs:
+  "/Users/amit/Documents/SwiftProgramming/Basics/Networking/Networking/APINetowrkSession.swift": [1666965384, 542929172]
+  "/Users/amit/Documents/SwiftProgramming/Basics/Networking/Networking/APIOperation.swift": [1666965384, 529193401]
+  "/Users/amit/Documents/SwiftProgramming/Basics/Networking/Networking/APIRequestDispatcher.swift": [1666895351, 517185688]
+  "/Users/amit/Documents/SwiftProgramming/Basics/Networking/Networking/EnvConfig.swift": [1662884787, 576885223]
+  "/Users/amit/Documents/SwiftProgramming/Basics/Networking/Networking/NetoworkSessionProtocol.swift": [1659866451, 594263076]
+  "/Users/amit/Documents/SwiftProgramming/Basics/Networking/Networking/News/NewsAPIConfig.swift": [1666966116, 138133525]
+  "/Users/amit/Documents/SwiftProgramming/Basics/Networking/Networking/News/NewsAPIHandler.swift": [1666897012, 81361770]
+  "/Users/amit/Documents/SwiftProgramming/Basics/Networking/Networking/OperationsProtocol.swift": [1666965384, 494031667]
+  "/Users/amit/Documents/SwiftProgramming/Basics/Networking/Networking/ServiceHandler.swift": [1666965384, 504508495]

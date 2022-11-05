@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>96A33DF8-08DC-4752-A46A-BA59137207FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>96A33DF8-08DC-4752-A46A-BA59137207FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Networking-altbtvoihkhppgdawbdnnwfiosft</string>
+			<key>timeStartedRecording</key>
+			<real>688658916.23580897</real>
+			<key>timeStoppedRecording</key>
+			<real>688658920.74014401</real>
+			<key>title</key>
+			<string>Build target Networking</string>
+			<key>uniqueIdentifier</key>
+			<string>96A33DF8-08DC-4752-A46A-BA59137207FC</string>
+		</dict>
+		<key>F64ED2EE-9D91-44CA-A938-0D2D930D8221</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>F64ED2EE-9D91-44CA-A938-0D2D930D8221.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>NetworkLayerTest-cwywouxrpjvreufycnbxsusgpwdh</string>
+			<key>timeStartedRecording</key>
+			<real>688658920.76749504</real>
+			<key>timeStoppedRecording</key>
+			<real>688658921.31912899</real>
+			<key>title</key>
+			<string>Build target NetworkLayerTest</string>
+			<key>uniqueIdentifier</key>
+			<string>F64ED2EE-9D91-44CA-A938-0D2D930D8221</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+Target dependency graph (5 targets)
+Networking in Networking, no dependencies
+NetworkLayerTest in NetworkLayerTest, depends on:
+Networking in Networking (implicit dependency via file 'Networking.framework' in build phase 'Link Binary')
+Networking in Networking, no dependencies
+NetworkLayerTest in NetworkLayerTest, depends on:
+Networking in Networking (implicit dependency via file 'Networking.framework' in build phase 'Link Binary')
+Networking in Networking, no dependencies

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>326CD5B7-66F3-4E4F-A70C-D0B75ECF757D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>326CD5B7-66F3-4E4F-A70C-D0B75ECF757D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NetworkLayerTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NetworkLayerTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NetworkLayerTest</string>
+			<key>timeStartedRecording</key>
+			<real>688589778.15355301</real>
+			<key>timeStoppedRecording</key>
+			<real>688589779.64519596</real>
+			<key>title</key>
+			<string>Build NetworkLayerTest</string>
+			<key>uniqueIdentifier</key>
+			<string>326CD5B7-66F3-4E4F-A70C-D0B75ECF757D</string>
+		</dict>
+		<key>67294F04-58B3-43EE-8323-17571A477B04</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67294F04-58B3-43EE-8323-17571A477B04.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NetworkLayerTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NetworkLayerTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NetworkLayerTest</string>
+			<key>timeStartedRecording</key>
+			<real>688658907.51773405</real>
+			<key>timeStoppedRecording</key>
+			<real>688658909.66519904</real>
+			<key>title</key>
+			<string>Build NetworkLayerTest</string>
+			<key>uniqueIdentifier</key>
+			<string>67294F04-58B3-43EE-8323-17571A477B04</string>
+		</dict>
+		<key>E252F9E9-1606-47B2-9015-643D67958569</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E252F9E9-1606-47B2-9015-643D67958569.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NetworkLayerTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NetworkLayerTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build NetworkLayerTest</string>
+			<key>timeStartedRecording</key>
+			<real>688658916.15462506</real>
+			<key>timeStoppedRecording</key>
+			<real>688658921.32994998</real>
+			<key>title</key>
+			<string>Build NetworkLayerTest</string>
+			<key>uniqueIdentifier</key>
+			<string>E252F9E9-1606-47B2-9015-643D67958569</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

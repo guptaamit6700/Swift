@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "08AB6697723580574DA2A601CA28681394C62038",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "08AB6697723580574DA2A601CA28681394C62038" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FE1D344B-BBFC-46AD-B4DC-E73FD37A5958",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "08AB6697723580574DA2A601CA28681394C62038" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NetworkLayerTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NetworkLayerTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/guptaamit6700\/Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08AB6697723580574DA2A601CA28681394C62038"
+    }
+  ]
+}

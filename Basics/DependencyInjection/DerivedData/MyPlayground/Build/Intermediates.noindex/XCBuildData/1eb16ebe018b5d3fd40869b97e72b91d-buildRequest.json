@@ -1,0 +1,102 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:MyPlayground_Sources-PLAYGROUND-TARGET:/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/MyPlayground.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Build/Products",
+          "derivedDataPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Build/Intermediates.noindex/Playgrounds/MyPlayground/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Build/Intermediates.noindex/Playgrounds/MyPlayground/Intermediates.noindex",
+              "SYMROOT" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Build/Intermediates.noindex/Playgrounds/MyPlayground/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "A6DC79F7-3586-4EE9-975D-8406E12CE9F9",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/MyPlayground.playground",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Build/Products",
+      "derivedDataPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/amit/Documents/SwiftProgramming/Basics/DependencyInjection/DerivedData/MyPlayground/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "A6DC79F7-3586-4EE9-975D-8406E12CE9F9",
+          "TARGET_DEVICE_MODEL" : "iPad6,4",
+          "TARGET_DEVICE_OS_VERSION" : "15.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

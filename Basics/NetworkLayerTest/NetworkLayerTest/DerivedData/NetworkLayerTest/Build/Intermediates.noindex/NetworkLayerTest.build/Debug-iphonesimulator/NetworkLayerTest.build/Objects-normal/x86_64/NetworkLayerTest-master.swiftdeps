@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "0f0cc674e7ee9ef4b4008f04dc9d7492c6c8ffcecf221a1a48fd9c7399b8bbba"
+build_start_time: [1662905399, 997926950]
+build_end_time: [1662905400, 105353832]
+inputs:
+  "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/NetworkLayerTest/AppDelegate.swift": [1662885362, 573538541]
+  "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/NetworkLayerTest/SceneDelegate.swift": [1662885362, 583577632]
+  "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/NetworkLayerTest/ViewController.swift": [1662889670, 96027612]

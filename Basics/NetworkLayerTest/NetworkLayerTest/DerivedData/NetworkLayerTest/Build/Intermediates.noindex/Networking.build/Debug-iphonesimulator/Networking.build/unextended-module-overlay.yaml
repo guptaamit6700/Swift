@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Build/Products/Debug-iphonesimulator/Networking.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/amit/Documents/SwiftProgramming/Basics/NetworkLayerTest/NetworkLayerTest/DerivedData/NetworkLayerTest/Build/Intermediates.noindex/Networking.build/Debug-iphonesimulator/Networking.build/unextended-module.modulemap",
+    }]
+  }]
+}
